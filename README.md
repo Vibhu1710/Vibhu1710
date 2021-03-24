@@ -18,5 +18,5 @@
 
 <br />
 
-![Vibhu's Github Stats](https://github-readme-stats.vercel.app/api?username=Vibhu1710&theme=jolly)
+![Vibhu's Github Stats](https://github-readme-stats.vercel.app/api?username=Vibhu1710&title_color=FF8F00&text_color=800000)
 <br />
