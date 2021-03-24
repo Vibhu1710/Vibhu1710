@@ -16,5 +16,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I love Singing🎤, spending time🕘 with People👦 & Robots🤖, learning new things💥 
 
+<br />
+
 ![Vibhu's Github Stats](https://github-readme-stats.vercel.app/api?username=Vibhu1710&theme=jolly)
 <br />
