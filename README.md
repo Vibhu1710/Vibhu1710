@@ -12,7 +12,7 @@
 
 ### About Me
 - 👀 I’m interested in Data Science, Machine Learning
-- 🎓 I'm currently a Bachelor of Techonology student at Punjab Engineering College (Deemed To Be University), Chandigarh, India
+- 🎓 I'm currently a Bachelor of Technology student at Punjab Engineering College (Deemed To Be University), Chandigarh, India
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: I love Singing🎤, spending time🕘 with People👦 & Robots🤖
 
