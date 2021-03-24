@@ -14,7 +14,7 @@
 - 👀 I’m interested in Data Science, Machine Learning
 - 🎓 I'm currently a Bachelor of Techonology student at Punjab Engineering College (Deemed To Be University), Chandigarh, India
 - 😄 Pronouns: He/Him
-- ⚡ Fun Fact: I love Singing🎤, spending Time🕘 with People👦 & Robots🤖
+- ⚡ Fun Fact: I love Singing🎤, spending time🕘 with People👦 & Robots🤖
 
 <br />
 
