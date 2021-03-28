@@ -9,6 +9,7 @@
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br />
+<br />
 
 ### About Me
 - 👀 I’m interested in Data Science, Machine Learning
